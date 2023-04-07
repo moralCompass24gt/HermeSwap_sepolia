@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HermeSwapp/precache-manifest.0ce4a2ed3585520d5b5a8294812c11c7.js"
+  "/HermeSwapp/precache-manifest.15fdddc14852e440cd48d2a18e6e82a0.js"
 );
 
 self.addEventListener('message', (event) => {
